@@ -23,6 +23,7 @@ const Translate = () => {
 
   return (
     <div>
+      <img href="https://enterpriseleague.com/public/img/logo-header.svg" />
       <div className="ui form">
         <div className="field">
           <label>Enter Text</label>
